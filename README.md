@@ -13,6 +13,15 @@ I'm a student passionate about programming and web development.
 - JavaScript (including Node.js)
 - SQL
 
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsu19971223&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsu19971223&layout=compact&theme=transparent&hide_border=true)
+
+---
+
 **Currently Developing**
 - Python
 - Backend Development
