@@ -1,11 +1,8 @@
-## Hi there 👋
-
 # Hi, I'm itsu19971223 👋
 
 ### Frontend Developer | Student | Programmer
 
-I'm a student passionate about programming, web development, and technology. I enjoy building projects, exploring new technologies, and improving my development skills.
-
+I'm a student passionate about programming and web development.
 ---
 
 ### Tech Stack
@@ -13,19 +10,12 @@ I'm a student passionate about programming, web development, and technology. I e
 **Languages**
 - HTML
 - CSS
-- JavaScript
+- JavaScript (including Node.js)
 - SQL
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsu19971223&layout=donut&theme=transparent&hide_border=true&langs_count=8)
-
-
-**Currently Exploring**
-- Node.js
+**Currently Developing**
 - Python
 - Backend Development
-- Database Management
 
 ---
 
@@ -48,13 +38,6 @@ I'm a student passionate about programming, web development, and technology. I e
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsu19971223&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsu19971223&layout=compact&theme=transparent&hide_border=true)
-
----
 
 ### Connect
 
