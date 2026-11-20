@@ -33,7 +33,7 @@ I'm a student passionate about programming and web development.
 - **Markdown Editor** – A collaborative Markdown editor project with JavaScript and database integration.
 - **Weather App** – A web application focused on displaying weather information.
 - **Notion Reset** – A project exploring the Notion API and automation.
-- **Flight Log** – A project related to aviation and flight tracking.
+- **Flight Log** – A web application made for logging your flights. Made for avgeeks by avgeek!
 
 ---
 
