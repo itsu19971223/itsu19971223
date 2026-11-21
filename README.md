@@ -51,3 +51,4 @@ I'm a student passionate about programming and web development.
 ### Connect
 
 - GitHub: [@itsu19971223](https://github.com/itsu19971223)
+- Netlify: [itsu19971223](https://app.netlify.com/teams/itsu19971223/projects)
